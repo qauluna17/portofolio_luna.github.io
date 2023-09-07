@@ -1,0 +1,27 @@
+.jumbotron img {
+	border-radius: 100%;
+}
+
+section {
+	min-height: 300px;
+}
+
+.jumbotron{
+	background-color: #B0C4DE;
+}
+
+.portofolio{
+	background-color: #ADD8E6;
+}
+
+footer{
+  background-color: #ffc0cb;
+     text-align: center;
+   }
+   ul li{
+     display: inline
+   }
+   a{
+     padding: 5px;
+     text-decoration: none;
+   }
